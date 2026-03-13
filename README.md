@@ -22,18 +22,18 @@
 
 ## 제2주차(소셜 네트워크의 기초)
 
--  [**A섹션: 강의**](https://github.com/hxk271/SocStats/blob/main/archive/Beamer_사회사유_W01A.pdf)
+-  [**A섹션: 강의**](https://github.com/hxk271/SocNets/blob/main/archive/Beamer_사회사유_W01A.pdf)
 
--  [**B섹션: 실습**](https://github.com/hxk271/SocStats/blob/main/archive/Beamer_사회사유_W01B.pdf)
+-  [**B섹션: 실습**](https://github.com/hxk271/SocNets/blob/main/archive/Beamer_사회사유_W01B.pdf)
 
 
 <br/>
 
 ## 제3주차(매듭과 양자 관계)
 
--  [**A섹션: 강의**](https://github.com/hxk271/SocStats/blob/main/archive/Beamer_사회사유_W02A.pdf)
+-  [**A섹션: 강의**](https://github.com/hxk271/SocNets/blob/main/archive/Beamer_사회사유_W02A.pdf)
 
--  [**B섹션: 실습**](https://github.com/hxk271/SocStats/blob/main/archive/Beamer_사회사유_W02B.pdf)
+-  [**B섹션: 실습**](https://github.com/hxk271/SocNets/blob/main/archive/Beamer_사회사유_W02B.pdf)
 
 
 <br/>
