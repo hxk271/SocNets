@@ -29,7 +29,7 @@
 
 <br/>
 
-## 제3주차(매듭과 양자 관계)
+## 제3주차(매듭과 유유상종)
 
 -  [**A섹션: 강의**](https://github.com/hxk271/SocNets/blob/main/archive/Beamer_사회사유_W03A.pdf)
 
