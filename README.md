@@ -37,3 +37,12 @@
 
 
 <br/>
+
+## 제4주차(중심성)
+
+-  [**A섹션: 강의**](https://github.com/hxk271/SocNets/blob/main/archive/Beamer_사회사유_W04A.pdf)
+
+-  [**B섹션: 실습**](https://github.com/hxk271/SocNets/blob/main/archive/Beamer_사회사유_W04B.pdf)
+
+
+<br/>
