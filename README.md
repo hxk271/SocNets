@@ -46,3 +46,12 @@
 
 
 <br/>
+
+## 제5주차(약한 연결의 힘)
+
+-  [**A섹션: 강의**](https://github.com/hxk271/SocNets/blob/main/archive/Beamer_사회사유_W05A.pdf)
+
+-  [**B섹션: 실습**](https://github.com/hxk271/SocNets/blob/main/archive/Beamer_사회사유_W05B.pdf)
+
+
+<br/>
