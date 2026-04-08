@@ -55,3 +55,13 @@
 
 
 <br/>
+
+## 제6주차(삼각관계)
+
+-  [**A섹션: 강의**](https://github.com/hxk271/SocNets/blob/main/archive/Beamer_사회사유_W06A.pdf)
+
+-  [**B섹션: 실습**](https://github.com/hxk271/SocNets/blob/main/archive/Beamer_사회사유_W06B.pdf)
+
+
+<br/>
+
