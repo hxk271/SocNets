@@ -65,3 +65,13 @@
 
 <br/>
 
+## 제7주차(응집성)
+
+-  [**A섹션: 강의**](https://github.com/hxk271/SocNets/blob/main/archive/Beamer_사회사유_W07A.pdf)
+
+-  [**B섹션: 실습**](https://github.com/hxk271/SocNets/blob/main/archive/Beamer_사회사유_W07B.pdf)
+
+
+<br/>
+
+## 제8주차(중간시험)
