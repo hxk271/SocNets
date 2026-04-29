@@ -75,3 +75,13 @@
 <br/>
 
 ## 제8주차(중간시험)
+
+
+<br/>
+
+## 제9주차(등위성)
+
+-  [**A섹션: 강의**](https://github.com/hxk271/SocNets/blob/main/archive/Beamer_사회사유_W09A.pdf)
+
+-  [**B섹션: 실습**](https://github.com/hxk271/SocNets/blob/main/archive/Beamer_사회사유_W09B.pdf)
+
