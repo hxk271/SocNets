@@ -85,3 +85,12 @@
 
 -  [**B섹션: 실습**](https://github.com/hxk271/SocNets/blob/main/archive/Beamer_사회사유_W09B.pdf)
 
+
+<br/>
+
+## 제10주차(소속)
+
+-  [**A섹션: 강의**](https://github.com/hxk271/SocNets/blob/main/archive/Beamer_사회사유_W10A.pdf)
+
+-  [**B섹션: 실습**](https://github.com/hxk271/SocNets/blob/main/archive/Beamer_사회사유_W10B.pdf)
+
